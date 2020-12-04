@@ -20,7 +20,7 @@
 <a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 <p align="center">
-<a href="https://github.com/JaimeTR/WebstrTools"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
+<a href="https://github.com/JaimeTR/WebstrTools"><img title="WEBSTR TOOLS" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeTR&repo=WebstrTools&theme=radical"></a>
 <a href="https://github.com/JaimeTR/GmailHack"><img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
 <a href="https://github.com/JaimeTR/WebstrTools.git"><img title="kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
 <a href="https://github.com/JaimeTR/WebstrTools.git"><img title="ipdrone" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a>
