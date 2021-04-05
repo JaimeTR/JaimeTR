@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
+<a href="https://github.com/JaimeTR"><img title="JAIME TR" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeTR&layout=compact"></a>
 </p>
