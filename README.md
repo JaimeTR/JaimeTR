@@ -1,6 +1,6 @@
 ## Hey, Soy JaimeTR 😎
 
-<p align="center"><img src="https://i.ibb.co/5xxzg4p/character.gif" alt="Bt">
+<p align="center"><img src="https://i.ibb.co/V2Rk8J9/marketing-gif-2-1.gif" alt="Bt">
 
 ### MAS SOBRE MI TRABAJO>>>>
  
