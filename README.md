@@ -1,6 +1,6 @@
 ## Hey, Soy JaimeTR 😎
 
-<p align="center"><img src="https://i.ibb.co/gyrGPJF/developers-gif-showcase.gif" alt="Bt">
+<p align="center"><img src="https://i.ibb.co/s5CnvJ0/programcacion-web.gif" alt="Bt">
 
 ### MAS SOBRE MI TRABAJO>>>>
  
