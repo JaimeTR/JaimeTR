@@ -16,7 +16,7 @@
 <p align="center">
 <a href="https://github.com/JaimeTR/WebstrTools"><img title="WEBSTR TOOLS" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeTR&repo=WebstrTools&theme=highcontrast"></a>
 <a href="https://github.com/JaimeTR/wifihack"><img title="WIFIHACK" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeTR&repo=wifihack&theme=highcontrast"></a>
-<a href="https://github.com/JaimeTR/instahack"><img title="INSTAHACK" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeTR&repo=instahack&theme=vision-highcontrast"></a>
+<a href="https://github.com/JaimeTR/instahack"><img title="INSTAHACK" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeTR&repo=instahack&theme=highcontrast"></a>
 <a href="https://github.com/JaimeTR/FBInfo"><img title="FBInfo" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeTR&repo=FBInfo&theme=highcontrast"></a>
 </p>
 
