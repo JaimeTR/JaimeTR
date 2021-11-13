@@ -18,7 +18,3 @@
 <a href="https://github.com/JaimeTR/SvenBot"><img title="SVENBOT" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeTR&repo=SvenBot&theme=highcontrast"></a>
 <a href="https://github.com/JaimeTR/FBInfo"><img title="FBInfo" src="https://github-readme-stats.vercel.app/api/pin/?username=JaimeTR&repo=FBInfo&theme=highcontrast"></a>
 </p>
-
-<p align="center">
-<a href="https://github.com/JaimeTR"><img title="JAIME TR" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeTR&layout=compact"></a>
-</p>
