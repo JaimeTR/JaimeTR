@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jaime Tarazona-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimetr/)
+[![Linkedin Badge](https://img.shields.io/badge/-JaimeTarazona-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimetr/)
 
-[![Instagram Badge](https://img.shields.io/badge/-JaimeTR-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white)](https://www.linkedin.com/in/jaimetr/)
+[![Instagram Badge](https://img.shields.io/badge/-JaimeTR-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/jaimetr_/)
 
 <br />
 
