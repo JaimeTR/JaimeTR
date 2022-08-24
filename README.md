@@ -10,9 +10,7 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-JaimeTarazona-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimetr/)
-
-[![Instagram Badge](https://img.shields.io/badge/-JaimeTR-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/jaimetr_/)
+[![Linkedin Badge](https://img.shields.io/badge/-JaimeTarazona-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimetr/) [![Instagram Badge](https://img.shields.io/badge/-JaimeTR-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/jaimetr_/)
 
 <br />
 
@@ -30,7 +28,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 
-<br />
 <br />
 
 ---
