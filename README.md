@@ -31,5 +31,5 @@
 
 ---
 
-[website]: https://www.jaimetr.webstrservices.com
+[website]: https://jaimetr.webstrservices.com/
 [linkedin]: https://www.linkedin.com/in/jaimetr/
