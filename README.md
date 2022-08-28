@@ -32,7 +32,6 @@
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2198f7&width=700&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg)
 
----
 
 [website]: https://jaimetr.webstrservices.com/
 [linkedin]: https://www.linkedin.com/in/jaimetr/
